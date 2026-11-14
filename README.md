@@ -29,6 +29,15 @@ Gosto de transformar ideias em projetos, explorar novas tecnologias e aprender a
 - Figma
 - Ferramentas de IA para desenvolvimento
 
+### 🧠 Inteligência Artificial
+
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Integração com APIs de IA
+- AI Agents
+- RAG e Embeddings
+- Automação com IA
+
 ### 📌 Atualmente
 
 Estudando desenvolvimento de software, explorando Inteligência Artificial e buscando novas formas de utilizar a tecnologia para criar soluções e projetos.
