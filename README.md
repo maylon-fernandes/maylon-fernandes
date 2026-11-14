@@ -15,9 +15,7 @@ Gosto de transformar ideias em projetos, explorar novas tecnologias e aprender a
 
 **Desenvolvimento**
 - HTML, CSS e JavaScript
-- React e Angular
 - Node.js
-- Sass e Tailwind CSS
 
 **Banco de Dados**
 - PostgreSQL
